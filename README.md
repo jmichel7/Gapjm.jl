@@ -1,2 +1,2 @@
 # Gapjm.jl
-This package has been renames Chevie.jl
+This package has been renamed Chevie.jl
